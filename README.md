@@ -1,3 +1,5 @@
+#DMM WEBCAMPコンテンツ【Railsを学ぼう】
+DMM WEBCAMPの学習コンテンツRailsを学ぼうの研修課題です
 # README
 
 This README would normally document whatever steps are necessary to get the
