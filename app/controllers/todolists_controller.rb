@@ -14,6 +14,7 @@ class TodolistsController < ApplicationController
   
   def show
     @list=List.find(params[:id])
+    @lists = List.where(title:rails)
   end
   
 def edit
